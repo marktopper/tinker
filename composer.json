@@ -36,5 +36,6 @@
                 "BotMan\\Tinker\\TinkerServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
